@@ -1,0 +1,3 @@
+com\algaworks\algalog\AlgalogApiApplication.class
+com\algaworks\algalog\domain\model\Cliente.class
+com\algaworks\algalog\api\controller\ClienteController.class
